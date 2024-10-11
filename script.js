@@ -4,3 +4,6 @@ function cambiarEstilo() {
   document.getElementById("miTexto").style.backgroundColor = "brown";
   document.getElementById("miTexto").style.inlineSize = "230px";
 }
+function cambiarImagen() {
+  document.getElementById("miImagen").src = "images/informaticogafas.jpg";
+}
