@@ -6,5 +6,5 @@ function cambiarEstilo() {
   document.getElementById("miTexto").style.textAlign = "center";
 }
 function cambiarImagen() {
-  document.getElementById("miImagen").src = "images/informaticogafas.jpg";
+  document.getElementById("miImagen").src = "images/Informaticogafas.jpg";
 }
